@@ -1092,15 +1092,15 @@
             {
                 "hostname": "vpn581985343",
                 "ip": "184.22.101.208",
-                "score": "604228",
+                "score": "603609",
                 "ping": "36",
                 "speed": "390259531",
                 "countrylong": "Thailand",
                 "countryshort": "TH",
-                "numvpnsessions": "12",
+                "numvpnsessions": "11",
                 "uptime": "73948845",
-                "totalusers": "7482",
-                "totaltraffic": "2078323567223",
+                "totalusers": "7483",
+                "totaltraffic": "2078406853797",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-0AMQ3Q0's owner",
                 "message": "",
@@ -1627,7 +1627,7 @@
                 "numvpnsessions": "1",
                 "uptime": "12674845",
                 "totalusers": "5355",
-                "totaltraffic": "634126845269",
+                "totaltraffic": "634146748160",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-7MA6PKC's owner",
                 "message": "",
@@ -1662,5 +1662,5 @@
             "us": "United States"
         }
     },
-    1738420783389
+    1738421525800
 ]
